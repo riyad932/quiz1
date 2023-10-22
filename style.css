@@ -1,0 +1,15 @@
+p{
+    display: block; 
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    margin-block-start: 0px;
+    margin-inline-end: 0px;
+}
+.elements{
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    justify-content: space-around;
+    font-family: sans-serif;
+    margin-left: 50px;
+}
